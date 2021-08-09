@@ -1,0 +1,77 @@
+item.item_creditcard.name=Tarjeta de credito
+item.item_oneb.name=Uno dolar
+item.item_fiveb.name=Cinco dolares
+item.item_tenb.name=Diez dolares
+item.item_twentyb.name=Veinte dolares
+item.item_fiftyb.name=Cincuenta dolares
+item.item_hundreedb.name=Cientos de dolares
+item.item_twohundreedb.name=Doscientos dolares
+item.item_fivehundreedb.name=Quinientos dolares
+item.item_remover.name=Llave inglesa
+item.item_gear.name=Engranaje
+item.item_gearmecanism.name=Mecanismo de engranajes
+item.item_goldnuggetsubs.name=Pepita de oro pura
+item.item_packetone.name=Paquete de uno d�lar
+item.item_packetfive.name=Paquete de cinco d�lares
+item.item_packetten.name=Paquete de diez d�lares
+item.item_packettwenty.name=Paquete de veinte d�lares
+item.item_packetfifty.name=Paquete de cincuenta d�lares
+item.item_packethundreed.name=Paquete de cien d�lares
+item.item_packettwohundreed.name=Paquete de doscientos d�lares
+item.item_packetfivehundreed.name=Paquete de cinco cientos d�lares
+item.item_vault_cracker.name=Digital ladr�n de cajas de caudales
+
+tile.block_vault.name=Caja de seguridad
+tile.block_seller.name=Maquina expendedora
+tile.block_changer.name=Cambio de oro
+tile.block_atm.name=Distribuidor de billetes
+tile.block_vault_cracked.name=Caja de seguridad de banco
+
+entity.entityInformater.name=Informador
+
+title.ownerCard=Propietario
+title.fundsCard=Fondos
+
+title.deleteC1=Eliminas tu tarjeta 
+
+title.yes=Si
+title.no=No
+
+title.linkdCard=Mejorar
+
+title.wireless=Tecnologia inalambrica
+
+title.stranger=Hey extranjero !
+title.informations=Tengo informaciones para ti.
+title.seevault=Ves la caja de seguridad
+title.codevault=en el banco ? Tengo su codigo
+title.onlyhundred=para solamente 100 euros...
+title.deal=Deal ?
+title.accept=Deal !
+
+commands.balance.usage=/balance <check|add|remove> [player] <amout:5|10|20|50|100|200|500>
+commands.balance.notsameowner=Parece que la tarjeta no es la tarjeta del jugador.
+commands.balance.funds=S�lo puede agregar 5|10|20|50|100|200|500 en un comando.
+
+title.validate=Validar
+title.sellAir=No puedes vender aire.
+title.noCost=Debe establecer un coste.
+title.block_seller=Maquina expendedora
+title.buy=Comprar
+title.recover=Recuperar los fondos
+title.noUpgrade=Necesita la actualizacion para comprar.
+title.noEnoughFunds=Sin fondos suficientes.
+title.noSameCardBuy=No te puede comprar cosas con la tarjeta de una otra personna.
+title.seller=Vendedor : 
+title.cost=Costo : 
+title.amount=Cantidad : 
+title.fundsToRecover=Fondos para recuperar : 
+title.item=Item : 
+title.unlimited=Pila ilimitada
+title.unlimitedStack=Establecer pila ilimitada.
+title.limitedStack=Establecer pila limitada.
+title.weight=Peso : 
+title.alreadyUsed=La maquina ya es usado por alguien m�s.
+title.block_changer=Cambio de oro
+title.noCardFoundAndNoLink=No encontr� niguna tarjeta de cr�dito y no te tenes la tecnologia inalambrica.
+title.noMoreQuantity=La maquina es vacio,contacto el vendedor.

@@ -1,0 +1,79 @@
+item.item_creditcard.name=Carte de credit
+item.item_oneb.name=Un dollar
+item.item_fiveb.name=Cinq dollars
+item.item_tenb.name=Dix dollars
+item.item_twentyb.name=Vingt dollars
+item.item_fiftyb.name=Cinquante dollars
+item.item_hundreedb.name=Cent dollars
+item.item_twohundreedb.name=Deux-cents dollars
+item.item_fivehundreedb.name=Cinq-cents dollars
+item.item_remover.name=Clef anglaise
+item.item_gear.name=Rouage
+item.item_gearmecanism.name=Mecanisme a rouages
+item.item_goldnuggetsubs.name=Pepite d'or pure
+item.item_packetone.name=Paquet de un dollar
+item.item_packetfive.name=Paquet de cinq dollars
+item.item_packetten.name=Pacquet de dix dollars
+item.item_packettwenty.name=Pacquet de vingt dollars
+item.item_packetfifty.name=Pacquet de cinquante dollars
+item.item_packethundreed.name=Pacquet de cent dollars
+item.item_packettwohundreed.name=Pacquet de deux cents dollars
+item.item_packetfivehundreed.name=Pacquet de cinq cents dollars
+item.item_vault_cracker.name=Perceur de coffre digital
+
+tile.block_vault.name=Coffre-fort
+tile.block_seller.name=Distributeur automatique
+tile.block_changer.name=Changeur d'or
+tile.block_atm.name=Distributeur automatique
+tile.block_vault_cracked.name=Coffre-fort de banque
+
+entity.entityInformater.name=Informateur
+
+title.ownerCard=Proprietaire
+title.fundsCard=Fonds
+
+title.deleteC1=Supprimer ta carte 
+
+title.yes=Oui
+title.no=Non
+
+title.block_vault=Coffre-fort
+
+title.linkdCard=Upgrade
+
+title.wireless=Technologie sans-fil
+
+title.stranger=Hey etranger !
+title.informations=J'ai peut-etre des infos
+title.seevault=pour toi. Tu vois le coffre a
+title.codevault=la banque ? J'ai son code
+title.onlyhundred=pour seulement 100 euros...
+title.deal=Deal ?
+title.accept=Deal !
+
+commands.balance.usage=/balance <check|add|remove> [player] <amout:5|10|20|50|100|200|500>
+commands.balance.notsameowner=Il semblerait que l'une des cartes n'est pas la carte de la personne.
+commands.balance.funds=Tu ne peux ajouter que 5|10|20|50|100|200|500 en une commande.
+
+title.validate=Valider
+title.sellAir=Tu ne peux pas vendre de l'air.
+title.noCost=Merci d'appliquer un cout � ce que vous vendez.
+title.block_seller=Vending machine
+title.buy=Acheter
+title.recover=Recuperer les fonds
+title.noUpgrade=Il te faut l'upgrade pour acheter.
+title.noEnoughFunds=Pas assez de fonds.
+title.noSameCardBuy=Tu ne peux pas acheter avec la carte de quelqu'un d'autre.
+title.seller=Vendeur : 
+title.cost=Cout : 
+title.amount=Quantite : 
+title.fundsToRecover=Fonds a recuperer : 
+title.item=Item : 
+title.unlimited=Stack infini
+title.unlimitedStack=Stack infini s�lectionn�.
+title.limitedStack=Stack d�fini s�lectionn�.
+title.weight=Poids : 
+title.alreadyUsed=La machine est d�j� en cours d'utilisation.
+title.block_changer=Changeur d'or
+title.noCardFoundAndNoLink=Aucune carte n'a �t� trouv�e et vous n'avez pas la technologie sans-fil.
+title.noMoreQuantity=La machine est vide, contactez le vendeur.

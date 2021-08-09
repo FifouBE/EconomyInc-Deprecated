@@ -1,0 +1,74 @@
+﻿item.item_creditcard.name=信用卡 
+item.item_oneb.name=1元 
+item.item_fiveb.name=5元 
+item.item_tenb.name=10元 
+item.item_twentyb.name=20元 
+item.item_fiftybe.name=50元 
+item.item_hundreedb.name=100元 
+item.item_twohundreedb.name=200元 
+item.item_fivehundreedb.name=500元 
+item.item_remover.name=钱箱扳手 
+item.item_gear.name=齿轮 
+item.item_gearmecanism.name=齿轮结构 
+item.item_microchip.name=芯片 
+item.item_goldnuggetsubs.name=金粒 
+item.item_packetone.name=1元包 
+item.item_packetfive.name=5元包 
+item.item_packetten.name=10元包 
+item.item_packettwenty.name=20元包 
+item.item_packetfifty.name=50元包 
+item.item_packethundreed.name=100元包 
+item.item_packettwohundreed.name=200元包 
+item.item_packetfivehundreed.name=500元包 
+item.item_vault_cracker.name=数字密码盘 
+
+tile.block_vault.name=私人钱箱 
+tile.block_seller.name=售货机 
+tile.block_changer.name=黄金存储器 
+tile.block_atm.name=ATM 
+tile.block_vault_cracked.name=安全箱 
+
+entity.entityInformater.name=Informer
+
+title.ownerCard=拥有者 
+title.fundsCard=资金 
+title.deleteC1=注销你的卡 
+title.yes=是 title.no=不 
+title.block_vault=私人钱箱 
+title.linkdCard=升级 
+title.wireless=无限技术 
+
+title.stranger=Hey stranger !
+title.informations=I may have some informations
+title.seevault=for you. See the vault at the
+title.codevault=bank ? I may give you the code
+title.onlyhundred=for only a hundred dollars ...
+title.deal=Deal ?
+title.accept=Accept
+
+commands.balance.usage=/balance <check|add|remove> [player] <amout:5|10|20|50|100|200|500> 
+commands.balance.notsameowner=It seems like one/all of the cards are not the player's one. 
+commands.balance.funds=You can only add 5|10|20|50|100|200|500 in one command. 
+
+title.validate=验证 title.sellAir=你不能出售空气 ;) 
+title.noCost=你需要为物品设置一个价格. 
+title.block_seller=售货机 
+title.buy=买 
+title.recover=恢复资金 
+title.noUpgrade=你需要通过购买升级机器 
+title.noEnoughFunds=你没有足够的资金 
+title.noSameCardBuy=你不可以使用别人的卡买东西! 
+title.seller=售卖者: 
+title.cost=价格: 
+title.amount=数量: 
+title.fundsToRecover=资金恢复 : 
+title.item=物品 : 
+title.unlimited=无限 
+title.unlimitedStack=设置为无限物品槽. 
+title.limitedStack=设置为有限物品槽. 
+title.weight=重: 
+title.alreadyUsed=此方块已被其他人使用. 
+title.block_changer=黄金存储器 
+title.exchange= 接受交互? 
+title.noCardFoundAndNoLink=没有信用卡或没有使用无限技术 
+title.noMoreQuantity=物品不足，请联系卖家 
